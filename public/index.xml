@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lauren Walker, PhD</title>
+    <link>https://laurenjwalker.com/</link>
+    <description>Recent content on Lauren Walker, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://laurenjwalker.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>https://laurenjwalker.com/publications/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      
+      <guid>https://laurenjwalker.com/publications/</guid>
+      <description>You can also access a list of my publications on my Google Scholar page    Agrin/Lrp4 signal constrains MuSK-dependent neuromuscular synapse development in appendicular muscle LJ Walker, RA Roque, MF Navarro, M Granato. Development 148 (21), dev199790 Also on Biorxiv
+  DLK activation synergizes with mitochondrial dysfunction to downregulate axon survival factors and promote SARM1-dependent axon degeneration. DW Summers, E Frey, LJ Walker, J Milbrandt, A DiAntonio. Molecular neurobiology 57 (2), 1146-1158</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://laurenjwalker.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurenjwalker.com/about/</guid>
+      <description>After growing up on a cattle farm in rural Indiana, Lauren earned BS degrees in Biology and Neuroscience from Indiana University, Bloomington. She received her PhD in neurobiology from Washington University in St. Louis, where she studied the molecular mechanisms of axon degeneration with Aaron DiAntonio.
+As a postdoctoral fellow with Michael Granato at the University of Pennsylvania, Lauren is interested in how axons, which wire the nervous system, find their correct targets.</description>
+    </item>
+    
+    <item>
+      <title>DIYwebsite</title>
+      <link>https://laurenjwalker.com/website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurenjwalker.com/website/</guid>
+      <description>Look what I made! Is it perfect? Nope. Am I so proud of it? You betcha.
+I started my postdoc with almost no experience with coding. But fortuitously, at the same time my project turned towards RNAseq, I found out that Dr. Dan Beiting at the University of Pennslyvania vet school teaches a fantastic course called DIY transcriptomics in which he teaches complete coding novices how to analyze transcriptomics data from start to finish using R.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://laurenjwalker.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurenjwalker.com/research/</guid>
+      <description>Throughout my research career, I have focused on the unique biology that allows axons, which wire the nervous system, to develop, form synapses, degenerate, regenerate. In my postdoctoral work, funded by a NRSA and a K01 career development award, I have established the larval zebrafish pectoral fin as a powerful vertebrate model to study axon guidance and synapse formation in development and regeneration. Using this model, I discovered a noncanonical role for a classic neuromuscular synapse development pathway that regulates the size and distribution of synapses specifically in the appendicular muscle of the pectoral fin.</description>
+    </item>
+    
+  </channel>
+</rss>
