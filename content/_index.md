@@ -1,6 +1,6 @@
 ---
 cascade:
-  featured_image: '/images/Header.jpg'
+  featured_image: '/images/fish.jpg'
 description: Axon guidance and synapse formation during development and regeneration
 title: 'Lauren Walker, PhD'
 #menu: main

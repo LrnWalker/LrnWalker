@@ -12,8 +12,8 @@
       <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
       
       <guid>https://laurenjwalker.com/publications/</guid>
-      <description>You can also access a list of my publications on my Google Scholar page    Agrin/Lrp4 signal constrains MuSK-dependent neuromuscular synapse development in appendicular muscle LJ Walker, RA Roque, MF Navarro, M Granato. Development 148 (21), dev199790 Also on Biorxiv
-  DLK activation synergizes with mitochondrial dysfunction to downregulate axon survival factors and promote SARM1-dependent axon degeneration. DW Summers, E Frey, LJ Walker, J Milbrandt, A DiAntonio. Molecular neurobiology 57 (2), 1146-1158</description>
+      <description>You can also access a list of my publications on my Google Scholar page    Agrin/Lrp4 signal constrains MuSK-dependent neuromuscular synapse development in appendicular muscle. LJ Walker, RA Roque, MF Navarro, M Granato. Development 148 (21), dev199790 Link Also on Biorxiv
+  DLK activation synergizes with mitochondrial dysfunction to downregulate axon survival factors and promote SARM1-dependent axon degeneration. DW Summers, E Frey, LJ Walker, J Milbrandt, A DiAntonio.</description>
     </item>
     
     <item>
@@ -27,13 +27,14 @@ As a postdoctoral fellow with Michael Granato at the University of Pennsylvania,
     </item>
     
     <item>
-      <title>DIYwebsite</title>
-      <link>https://laurenjwalker.com/website/</link>
+      <title>Contact</title>
+      <link>https://laurenjwalker.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://laurenjwalker.com/website/</guid>
-      <description>Look what I made! Is it perfect? Nope. Am I so proud of it? You betcha.
-I started my postdoc with almost no experience with coding. But fortuitously, at the same time my project turned towards RNAseq, I found out that Dr. Dan Beiting at the University of Pennslyvania vet school teaches a fantastic course called DIY transcriptomics in which he teaches complete coding novices how to analyze transcriptomics data from start to finish using R.</description>
+      <guid>https://laurenjwalker.com/contact/</guid>
+      <description>These are some ways to contact me:
+ email: walkerla [at] pennmedicine.upenn.edu Twitter: @lrn_walker Granato lab Twitter: @GranatoLab   Pectoral fin with muscle labeled in gold, motor axons labeled in cyan, and synapses labeled in magenta
+  </description>
     </item>
     
     <item>
@@ -42,7 +43,18 @@ I started my postdoc with almost no experience with coding. But fortuitously, at
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://laurenjwalker.com/research/</guid>
-      <description>Throughout my research career, I have focused on the unique biology that allows axons, which wire the nervous system, to develop, form synapses, degenerate, regenerate. In my postdoctoral work, funded by a NRSA and a K01 career development award, I have established the larval zebrafish pectoral fin as a powerful vertebrate model to study axon guidance and synapse formation in development and regeneration. Using this model, I discovered a noncanonical role for a classic neuromuscular synapse development pathway that regulates the size and distribution of synapses specifically in the appendicular muscle of the pectoral fin.</description>
+      <description>Regeneration of the motor neuron innervation of a larval zebrafish pectoral fin over 2 days
+  Throughout my research career, I have focused on the unique biology that allows axons, which wire the nervous system, to develop, form synapses, degenerate, regenerate. In my postdoctoral work, funded by a NRSA and a K01 career development award, I have established the larval zebrafish pectoral fin as a powerful vertebrate model to study axon guidance and synapse formation in development and regeneration.</description>
+    </item>
+    
+    <item>
+      <title>WebsiteDIY</title>
+      <link>https://laurenjwalker.com/website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://laurenjwalker.com/website/</guid>
+      <description>Look what I made! Is it perfect? Nope. Am I so proud of it? You betcha.
+I started my postdoc with almost no experience with coding. But fortuitously, at the same time my project turned towards RNAseq, I found out that Dr. Dan Beiting at the University of Pennslyvania vet school runs a fantastic course called DIY transcriptomics in which he teaches complete coding novices how to analyze transcriptomics data from start to finish using R.</description>
     </item>
     
   </channel>
