@@ -6,7 +6,7 @@ resourceDir: ../resources
 DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 4
-googleAnalytics: G-MXX9VBMBNW
+googleAnalytics: 'G-MXX9VBMBNW'
 enableRobotsTXT: yes
 ignoreFiles:
     -'\.ai$'
